@@ -1,0 +1,8 @@
+[package]
+name = "expert_system"
+version = "0.1.0"
+authors = ["abombard <arthbab@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
+lazy_static = "*"
