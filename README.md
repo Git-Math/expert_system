@@ -10,7 +10,7 @@ From the root of the repository run `make`
 From the root of the repository run `./expert_system [file]`
 
 ## Input file format
-The input file is composed of [rules](#Rule), [initial facts](#Initial-facts) (letters after "=") and [queries](#Queries) (letters after "?").
+The input file is composed of [rules](#Rule), [initial facts](#Initial-fact) (letters after "=") and [queries](#Query) (letters after "?").
 
 ### Rule
 A rule is a logical proposal, for example `D + E => B` means that if D and E are true, then B is also true.
